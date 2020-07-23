@@ -1,5 +1,5 @@
 # Hello 👋, I'm Shrinivas 🧔
-### Likes programming and making websites using Django🐍
+### Likes programming and making websites using Django🐍 and JS
 ### Aspiring back-end dev💻
 
 
